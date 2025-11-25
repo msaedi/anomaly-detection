@@ -1,2 +1,1 @@
-# anomaly-detection
-Anomaly detection in financial time-series
+# Free AI at api.airforce
